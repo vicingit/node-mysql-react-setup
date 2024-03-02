@@ -1,22 +1,34 @@
 # node-mysql-react-setup
-npx create-react-app client
 
-cd client
+
+* npx create-react-app client
+
+* cd client
 
 * npm install -D tailwindcss
 
-npx tailwindcss init
+* npx tailwindcss init
 
 
-configure tailwind.config.js and index.css
+* configure tailwind.config.js and index.css
 
 * npm install axios
 
-mkdir server
+* mkdir server
 
-cd server
+* cd server
 
-npm init
+* npm init
 
-npm install express
-npm install cors
+* npm install express
+* npm install cors\
+
+@ Okay
+
+! Okay
+
+~ Okay
+
+& Okay
+
+& Okay
